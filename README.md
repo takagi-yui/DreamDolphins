@@ -6,6 +6,7 @@
 
 本作は、Unityインターハイ2017に出展するために制作されたもので、シンプルな操作で楽しめることを目指しています。
 
+![DreamDolphins](https://github.com/user-attachments/assets/45fa7dd6-6f3e-46e8-976f-10291b1df504)
 <!--
 スクリーンショットやプレイ動画などがあれば、ここに追加する。
 GitHubのWeb上でREADME.mdを編集するとき、画像ファイルを直接ドラッグ＆ドロップで貼り付け可能
